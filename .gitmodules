@@ -1,0 +1,18 @@
+[submodule "Go-API-Gateway-Service"]
+	path = Go-API-Gateway-Service
+	url = https://github.com/rashi9551/Go-API-Gateway-Service.git
+[submodule "Go-Auth-Service"]
+	path = Go-Auth-Service
+	url = https://github.com/rashi9551/Go-Auth-Service.git
+[submodule "Go-User-Service"]
+	path = Go-User-Service
+	url = https://github.com/rashi9551/Go-User-Service.git
+[submodule "Go-Ride-Service"]
+	path = Go-Ride-Service
+	url = https://github.com/rashi9551/Go-Ride-Service.git
+[submodule "Go-Driver-Service"]
+	path = Go-Driver-Service
+	url = https://github.com/rashi9551/Go-Driver-Service.git
+[submodule "Go-Client-Service"]
+	path = Go-Client-Service
+	url = https://github.com/rashi9551/Go-Client-Service.git
