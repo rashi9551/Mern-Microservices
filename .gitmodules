@@ -16,3 +16,6 @@
 [submodule "Go-Client-Service"]
 	path = Go-Client-Service
 	url = https://github.com/rashi9551/Go-Client-Service.git
+[submodule "Go-Microservice-Devops"]
+	path = Go-Microservice-Devops
+	url = https://github.com/rashi9551/Go-Microservice-Devops.git
